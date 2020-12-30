@@ -1,0 +1,421 @@
+20201225 01:51:15 AM: INFO: ***Test001Login***
+20201225 01:51:15 AM: INFO: ***test_homepg_title***
+20201225 01:52:24 AM: INFO: ***test_homepg_title test passed***
+20201225 01:52:33 AM: INFO: ***test_login_good_creds***
+20201225 01:54:47 AM: INFO: ***Test001Login***
+20201225 01:54:47 AM: INFO: ***test_homepg_title***
+20201225 01:54:52 AM: INFO: ***test_homepg_title test passed***
+20201225 01:55:02 AM: INFO: ***test_login_good_creds***
+20201225 01:55:12 AM: ERROR: ***test_login_good_creds test FAILED***
+20201225 01:56:32 AM: INFO: ***Test001Login***
+20201225 01:56:32 AM: INFO: ***test_homepg_title***
+20201225 01:56:36 AM: INFO: ***test_homepg_title test passed***
+20201225 01:56:44 AM: INFO: ***test_login_good_creds***
+20201225 01:56:57 AM: INFO: ***test_login_good_creds test passed***
+20201225 10:47:55 AM: INFO: ***Test001Login***
+20201225 10:47:55 AM: INFO: ***test_homepg_title***
+20201225 10:48:00 AM: INFO: ***test_homepg_title test passed***
+20201225 10:48:03 AM: INFO: ***test_login_good_creds***
+20201225 10:48:14 AM: INFO: ***test_login_good_creds test passed***
+20201225 10:57:55 AM: INFO: ***Test001Login***
+20201225 10:57:55 AM: INFO: ***test_homepg_title***
+20201225 10:57:59 AM: INFO: ***test_homepg_title test passed***
+20201225 10:58:08 AM: INFO: ***test_login_good_creds***
+20201225 10:58:15 AM: INFO: ***test_login_good_creds test passed***
+20201225 11:04:23 AM: INFO: ***Test001Login***
+20201225 11:04:23 AM: INFO: ***test_homepg_title***
+20201225 11:04:26 AM: INFO: ***test_homepg_title test passed***
+20201225 11:04:30 AM: INFO: ***test_login_good_creds***
+20201225 11:04:52 AM: INFO: ***test_login_good_creds test passed***
+20201225 11:10:44 AM: INFO: ***Test001Login***
+20201225 11:10:44 AM: INFO: ***test_homepg_title***
+20201225 11:10:48 AM: INFO: ***test_homepg_title test passed***
+20201225 11:10:51 AM: INFO: ***test_login_good_creds***
+20201225 11:10:58 AM: INFO: ***test_login_good_creds test passed***
+20201225 11:14:38 AM: INFO: ***Test001Login***
+20201225 11:14:38 AM: INFO: testing test_homepg_title...
+20201225 11:14:41 AM: INFO: test_homepg_title test passed
+20201225 11:14:45 AM: INFO: test_login_good_creds...
+20201225 11:14:53 AM: ERROR: test_login_good_creds test FAILED
+20201225 11:25:14 AM: INFO: ***Test001Login***
+20201225 11:25:14 AM: INFO: testing test_homepg_title...
+20201225 11:25:19 AM: INFO: test_homepg_title test passed
+20201225 11:25:27 AM: INFO: test_login_good_creds...
+20201225 11:25:41 AM: ERROR: test_login_good_creds test FAILED
+20201225 11:29:39 AM: INFO: test_login_good_creds...
+20201225 11:29:42 AM: INFO: ***Test001Login***
+20201225 11:29:42 AM: INFO: testing test_homepg_title...
+20201225 11:29:52 AM: INFO: test_homepg_title test passed
+20201225 11:29:54 AM: ERROR: test_login_good_creds test FAILED
+20201225 11:30:34 AM: INFO: test_login_good_creds...
+20201225 11:30:34 AM: INFO: ***Test001Login***
+20201225 11:30:34 AM: INFO: testing test_homepg_title...
+20201225 11:30:41 AM: INFO: test_homepg_title test passed
+20201225 11:30:43 AM: INFO: test_login_good_creds test passed
+20201225 11:46:13 AM: INFO: test_login_good_creds...
+20201225 11:46:14 AM: INFO: ***Test001Login***
+20201225 11:46:14 AM: INFO: testing test_homepg_title...
+20201225 11:46:19 AM: INFO: test_homepg_title test passed
+20201225 11:46:23 AM: INFO: test_login_good_creds test passed
+20201225 12:00:52 PM: INFO: ***Test001Login***
+20201225 12:00:52 PM: INFO: testing test_homepg_title...
+20201225 12:00:53 PM: INFO: test_login_good_creds...
+20201225 12:00:58 PM: INFO: test_homepg_title test passed
+20201225 12:01:05 PM: INFO: test_login_good_creds test passed
+20201225 12:03:10 PM: INFO: test_login_good_creds...
+20201225 12:03:10 PM: INFO: ***Test001Login***
+20201225 12:03:10 PM: INFO: testing test_homepg_title...
+20201225 12:03:20 PM: INFO: test_homepg_title test passed
+20201225 12:03:28 PM: INFO: test_login_good_creds test passed
+20201225 12:07:29 PM: INFO: ***Test001Login***
+20201225 12:07:29 PM: INFO: testing test_homepg_title...
+20201225 12:07:31 PM: INFO: test_login_good_creds...
+20201225 12:07:37 PM: INFO: test_homepg_title test passed
+20201225 12:07:40 PM: INFO: test_login_good_creds test passed
+20201226 12:03:13 AM: INFO: ***Test001Login***
+20201226 12:03:13 AM: INFO: testing test_homepg_title...
+20201226 12:03:18 AM: INFO: test_homepg_title test passed
+20201226 12:03:27 AM: INFO: test_login_good_creds...
+20201226 12:03:35 AM: INFO: test_login_good_creds test passed
+20201226 12:03:44 AM: INFO: ***Test002DDTLogin***
+20201226 12:03:44 AM: INFO: test_login_ddt...
+20201226 12:06:50 AM: INFO: ***Test002DDTLogin***
+20201226 12:06:50 AM: INFO: test_login_ddt...
+20201226 12:07:00 AM: INFO: test_login_ddt row:2 test passed
+20201226 12:12:43 AM: INFO: ***Test002DDTLogin***
+20201226 12:12:43 AM: INFO: test_login_ddt...
+20201226 12:12:54 AM: INFO: test_login_ddt row:2 test passed
+20201226 12:13:00 AM: INFO: test_login_ddt row:3 test passed
+20201226 12:13:06 AM: INFO: test_login_ddt row:4 test passed
+20201226 12:13:11 AM: INFO: test_login_ddt row:5 test passed
+20201226 12:13:11 AM: INFO: test_login_ddt test passed
+20201226 12:13:13 AM: INFO: Test002DDTLogin tests completed
+20201227 08:33:03 PM: INFO: initiating Test003AddCust...
+20201227 08:33:42 PM: INFO: login successful
+20201227 08:33:42 PM: INFO: testing add_cust
+20201227 08:35:14 PM: INFO: initiating Test003AddCust...
+20201227 08:35:19 PM: INFO: login successful
+20201227 08:35:19 PM: INFO: testing add_cust
+20201227 08:37:53 PM: INFO: initiating Test003AddCust...
+20201227 08:37:59 PM: INFO: login successful
+20201227 08:37:59 PM: INFO: testing add_cust
+20201227 08:38:02 PM: INFO: providing cust info
+20201227 08:40:04 PM: INFO: initiating Test003AddCust...
+20201227 08:40:10 PM: INFO: login successful
+20201227 08:40:10 PM: INFO: testing add_cust
+20201227 08:42:22 PM: INFO: initiating Test003AddCust...
+20201227 08:42:27 PM: INFO: login successful
+20201227 08:42:27 PM: INFO: testing add_cust
+20201227 08:46:41 PM: INFO: initiating Test003AddCust...
+20201227 08:46:46 PM: INFO: login successful
+20201227 08:46:46 PM: INFO: testing add_cust
+20201227 08:48:48 PM: INFO: initiating Test003AddCust...
+20201227 08:48:58 PM: INFO: login successful
+20201227 08:48:58 PM: INFO: testing add_cust
+20201227 08:49:26 PM: INFO: initiating Test003AddCust...
+20201227 08:49:31 PM: INFO: login successful
+20201227 08:49:31 PM: INFO: testing add_cust
+20201227 08:52:28 PM: INFO: initiating Test003AddCust...
+20201227 08:52:33 PM: INFO: login successful
+20201227 08:52:33 PM: INFO: testing add_cust
+20201227 08:56:30 PM: INFO: initiating Test003AddCust...
+20201227 08:56:35 PM: INFO: login successful
+20201227 08:56:35 PM: INFO: testing add_cust
+20201227 08:58:35 PM: INFO: initiating Test003AddCust...
+20201227 08:58:40 PM: INFO: login successful
+20201227 08:58:40 PM: INFO: testing add_cust
+20201227 09:11:29 PM: INFO: initiating Test003AddCust...
+20201227 09:11:35 PM: INFO: login successful
+20201227 09:11:35 PM: INFO: testing add_cust
+20201227 09:15:05 PM: INFO: initiating Test003AddCust...
+20201227 09:15:16 PM: INFO: login successful
+20201227 09:15:16 PM: INFO: testing add_cust
+20201227 09:16:08 PM: INFO: initiating Test003AddCust...
+20201227 09:16:16 PM: INFO: login successful
+20201227 09:16:16 PM: INFO: testing add_cust
+20201227 09:22:41 PM: INFO: initiating Test003AddCust...
+20201227 09:22:46 PM: INFO: login successful
+20201227 09:22:46 PM: INFO: testing add_cust
+20201227 09:23:28 PM: INFO: initiating Test003AddCust...
+20201227 09:23:35 PM: INFO: login successful
+20201227 09:23:35 PM: INFO: testing add_cust
+20201227 09:32:00 PM: INFO: initiating Test003AddCust...
+20201227 09:32:08 PM: INFO: login successful
+20201227 09:32:08 PM: INFO: testing add_cust
+20201227 09:32:31 PM: INFO: initiating Test003AddCust...
+20201227 09:32:36 PM: INFO: login successful
+20201227 09:32:36 PM: INFO: testing add_cust
+20201227 09:33:13 PM: INFO: initiating Test003AddCust...
+20201227 09:33:20 PM: INFO: login successful
+20201227 09:33:20 PM: INFO: testing add_cust
+20201227 09:35:18 PM: INFO: initiating Test003AddCust...
+20201227 09:35:24 PM: INFO: login successful
+20201227 09:35:24 PM: INFO: testing add_cust
+20201227 09:37:52 PM: INFO: initiating Test003AddCust...
+20201227 09:38:00 PM: INFO: login successful
+20201227 09:38:00 PM: INFO: testing add_cust
+20201227 09:51:51 PM: INFO: initiating Test003AddCust...
+20201227 09:51:57 PM: INFO: login successful
+20201227 09:51:57 PM: INFO: testing add_cust
+20201227 09:54:28 PM: INFO: initiating Test003AddCust...
+20201227 09:54:40 PM: INFO: login successful
+20201227 09:54:42 PM: INFO: testing add_cust
+20201227 09:54:47 PM: INFO: providing cust info
+20201227 10:01:55 PM: INFO: initiating Test003AddCust...
+20201227 10:02:00 PM: INFO: login successful
+20201227 10:02:02 PM: INFO: testing add_cust
+20201227 10:02:07 PM: INFO: providing cust info
+20201227 10:05:37 PM: INFO: initiating Test003AddCust...
+20201227 10:05:43 PM: INFO: login successful
+20201227 10:05:45 PM: INFO: testing add_cust
+20201227 10:05:49 PM: INFO: providing cust info
+20201227 10:10:37 PM: INFO: initiating Test003AddCust...
+20201227 10:11:13 PM: INFO: initiating Test003AddCust...
+20201227 10:11:26 PM: INFO: login successful
+20201227 10:11:28 PM: INFO: testing add_cust
+20201227 10:11:32 PM: INFO: providing cust info
+20201227 10:12:42 PM: INFO: initiating Test003AddCust...
+20201227 10:12:49 PM: INFO: login successful
+20201227 10:12:51 PM: INFO: testing add_cust
+20201227 10:12:56 PM: INFO: providing cust info
+20201227 10:14:41 PM: INFO: initiating Test003AddCust...
+20201227 10:15:49 PM: INFO: initiating Test003AddCust...
+20201227 10:15:54 PM: INFO: login successful
+20201227 10:15:56 PM: INFO: testing add_cust
+20201227 10:16:00 PM: INFO: providing cust info
+20201227 10:30:22 PM: INFO: initiating Test003AddCust...
+20201227 10:30:29 PM: INFO: login successful
+20201227 10:30:31 PM: INFO: testing add_cust
+20201227 10:30:37 PM: INFO: providing cust info
+20201227 10:35:12 PM: INFO: initiating Test003AddCust...
+20201227 10:35:20 PM: INFO: login successful
+20201227 10:35:22 PM: INFO: testing add_cust
+20201227 10:35:27 PM: INFO: providing cust info
+20201227 10:39:30 PM: INFO: initiating Test003AddCust...
+20201227 10:39:37 PM: INFO: login successful
+20201227 10:39:39 PM: INFO: testing add_cust
+20201227 10:39:45 PM: INFO: providing cust info
+20201227 10:46:19 PM: INFO: initiating Test003AddCust...
+20201227 10:46:27 PM: INFO: login successful
+20201227 10:46:29 PM: INFO: testing add_cust
+20201227 10:46:35 PM: INFO: providing cust info
+20201227 10:52:07 PM: INFO: initiating Test003AddCust...
+20201227 10:52:15 PM: INFO: login successful
+20201227 10:52:17 PM: INFO: testing add_cust
+20201227 10:52:22 PM: INFO: providing cust info
+20201227 11:15:51 PM: INFO: initiating Test003AddCust...
+20201227 11:15:59 PM: INFO: login successful
+20201227 11:16:01 PM: INFO: testing add_cust
+20201227 11:16:06 PM: INFO: providing cust info
+20201227 11:31:55 PM: INFO: initiating Test003AddCust...
+20201227 11:32:03 PM: INFO: login successful
+20201227 11:32:05 PM: INFO: testing add_cust
+20201227 11:32:10 PM: INFO: providing cust info
+20201227 11:39:06 PM: INFO: initiating Test003AddCust...
+20201227 11:39:14 PM: INFO: login successful
+20201227 11:39:16 PM: INFO: testing add_cust
+20201227 11:39:22 PM: INFO: providing cust info
+20201228 05:30:44 PM: INFO: initiating Test003AddCust...
+20201228 05:30:55 PM: INFO: login successful
+20201228 05:30:57 PM: INFO: testing add_cust
+20201228 05:31:03 PM: INFO: providing cust info
+20201228 05:34:30 PM: INFO: initiating Test003AddCust...
+20201228 05:34:37 PM: INFO: login successful
+20201228 05:34:39 PM: INFO: testing add_cust
+20201228 05:34:45 PM: INFO: providing cust info
+20201228 05:41:59 PM: INFO: initiating Test003AddCust...
+20201228 05:42:06 PM: INFO: login successful
+20201228 05:42:08 PM: INFO: testing add_cust
+20201228 05:42:14 PM: INFO: providing cust info
+20201228 05:45:18 PM: INFO: initiating Test003AddCust...
+20201228 05:45:26 PM: INFO: login successful
+20201228 05:45:28 PM: INFO: testing add_cust
+20201228 05:45:33 PM: INFO: providing cust info
+20201228 05:50:09 PM: INFO: initiating Test003AddCust...
+20201228 05:50:16 PM: INFO: login successful
+20201228 05:50:18 PM: INFO: testing add_cust
+20201228 05:50:24 PM: INFO: providing cust info
+20201228 05:55:12 PM: INFO: initiating Test003AddCust...
+20201228 05:55:19 PM: INFO: login successful
+20201228 05:55:21 PM: INFO: testing add_cust
+20201228 05:55:27 PM: INFO: providing cust info
+20201228 05:57:40 PM: INFO: initiating Test003AddCust...
+20201228 05:57:51 PM: INFO: login successful
+20201228 05:57:53 PM: INFO: testing add_cust
+20201228 05:57:59 PM: INFO: providing cust info
+20201228 06:02:09 PM: INFO: initiating Test003AddCust...
+20201228 06:02:21 PM: INFO: login successful
+20201228 06:02:23 PM: INFO: testing add_cust
+20201228 06:02:27 PM: INFO: providing cust info
+20201228 06:03:04 PM: INFO: initiating Test003AddCust...
+20201228 06:03:16 PM: INFO: login successful
+20201228 06:03:18 PM: INFO: testing add_cust
+20201228 06:03:24 PM: INFO: providing cust info
+20201228 06:04:31 PM: INFO: initiating Test003AddCust...
+20201228 06:04:44 PM: INFO: login successful
+20201228 06:04:46 PM: INFO: testing add_cust
+20201228 06:04:52 PM: INFO: providing cust info
+20201228 06:09:28 PM: INFO: initiating Test003AddCust...
+20201228 06:09:40 PM: INFO: login successful
+20201228 06:09:42 PM: INFO: testing add_cust
+20201228 06:09:47 PM: INFO: providing cust info
+20201228 06:17:18 PM: INFO: initiating Test003AddCust...
+20201228 06:17:28 PM: INFO: login successful
+20201228 06:17:30 PM: INFO: testing add_cust
+20201228 06:17:36 PM: INFO: providing cust info
+20201228 06:19:03 PM: INFO: initiating Test003AddCust...
+20201228 06:19:12 PM: INFO: login successful
+20201228 06:19:14 PM: INFO: testing add_cust
+20201228 06:19:19 PM: INFO: providing cust info
+20201228 06:20:02 PM: INFO: initiating Test003AddCust...
+20201228 06:20:09 PM: INFO: login successful
+20201228 06:20:11 PM: INFO: testing add_cust
+20201228 06:20:15 PM: INFO: providing cust info
+20201228 06:20:25 PM: INFO: saving cust info
+20201228 06:20:25 PM: INFO: validating test
+20201228 06:20:26 PM: INFO: add_cust test passed
+20201228 07:58:39 PM: INFO: initiating Test004SearchCustEmail...
+20201228 07:58:46 PM: INFO: login successful
+20201228 07:58:48 PM: INFO: testing search_cust_by_email
+20201228 08:00:51 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:01:05 PM: INFO: login successful
+20201228 08:01:07 PM: INFO: testing search_cust_by_email
+20201228 08:02:53 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:03:02 PM: INFO: login successful
+20201228 08:03:04 PM: INFO: testing search_cust_by_email
+20201228 08:06:59 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:07:06 PM: INFO: login successful
+20201228 08:07:08 PM: INFO: testing search_cust_by_email
+20201228 08:08:42 PM: INFO: initiating Test003AddCust...
+20201228 08:08:49 PM: INFO: login successful
+20201228 08:08:51 PM: INFO: testing add_cust
+20201228 08:08:58 PM: INFO: providing cust info
+20201228 08:09:40 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:09:47 PM: INFO: login successful
+20201228 08:09:49 PM: INFO: testing search_cust_by_email
+20201228 08:13:23 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:13:30 PM: INFO: login successful
+20201228 08:13:32 PM: INFO: testing search_cust_by_email
+20201228 08:16:59 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:17:07 PM: INFO: login successful
+20201228 08:17:09 PM: INFO: testing search_cust_by_email
+20201228 08:22:08 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:22:20 PM: INFO: login successful
+20201228 08:22:22 PM: INFO: testing search_cust_by_email
+20201228 08:24:07 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:24:14 PM: INFO: login successful
+20201228 08:24:16 PM: INFO: testing search_cust_by_email
+20201228 08:25:30 PM: INFO: initiating Test004SearchCustEmail...
+20201228 08:25:37 PM: INFO: login successful
+20201228 08:25:39 PM: INFO: testing search_cust_by_email
+20201228 11:32:44 PM: INFO: initiating Test004SearchCustEmail...
+20201228 11:32:56 PM: INFO: login successful
+20201228 11:32:58 PM: INFO: testing search_cust_by_email
+20201228 11:33:11 PM: ERROR: ***test_search_cust_by_email test FAILED***
+20201228 11:37:36 PM: INFO: initiating Test004SearchCustEmail...
+20201228 11:37:49 PM: INFO: login successful
+20201228 11:37:51 PM: INFO: testing search_cust_by_email
+20201228 11:38:05 PM: ERROR: ***test_search_cust_by_email test FAILED***
+20201228 11:39:59 PM: INFO: initiating Test004SearchCustEmail...
+20201228 11:40:10 PM: INFO: login successful
+20201228 11:40:12 PM: INFO: testing search_cust_by_email
+20201228 11:40:25 PM: INFO: test_search_cust_by_email test passed
+20201228 11:42:30 PM: INFO: initiating Test004SearchCustEmail...
+20201228 11:42:39 PM: INFO: login successful
+20201228 11:42:41 PM: INFO: testing search_cust_by_email
+20201228 11:42:54 PM: INFO: test_search_cust_by_email test passed
+20201228 11:51:22 PM: INFO: initiating Test005SearchCustName...
+20201228 11:51:29 PM: INFO: login successful
+20201228 11:51:31 PM: INFO: testing search_cust_by_name
+20201228 11:52:59 PM: INFO: initiating Test005SearchCustName...
+20201228 11:53:11 PM: INFO: login successful
+20201228 11:53:13 PM: INFO: testing search_cust_by_name
+20201228 11:53:23 PM: ERROR: ***test_search_cust_by_name test FAILED***
+20201228 11:55:13 PM: INFO: initiating Test005SearchCustName...
+20201228 11:55:20 PM: INFO: login successful
+20201228 11:55:22 PM: INFO: testing search_cust_by_name
+20201228 11:55:32 PM: ERROR: ***test_search_cust_by_name test FAILED***
+20201228 11:57:48 PM: INFO: initiating Test005SearchCustName...
+20201228 11:57:56 PM: INFO: login successful
+20201228 11:57:58 PM: INFO: testing search_cust_by_name
+20201228 11:58:08 PM: INFO: test_search_cust_by_name test passed
+20201229 12:16:11 AM: INFO: initiating Test003AddCust...
+20201229 12:16:18 AM: INFO: login successful
+20201229 12:16:20 AM: INFO: testing add_cust
+20201229 12:16:26 AM: INFO: providing cust info
+20201229 12:16:35 AM: INFO: saving cust info
+20201229 12:16:35 AM: INFO: validating test
+20201229 12:16:35 AM: INFO: add_cust test passed
+20201229 12:16:41 AM: INFO: test_login_good_creds...
+20201229 12:16:51 AM: INFO: test_login_good_creds test passed
+20201229 12:21:26 AM: INFO: ***Test001Login***
+20201229 12:21:26 AM: INFO: testing test_homepg_title...
+20201229 12:21:30 AM: INFO: test_homepg_title test passed
+20201229 12:21:33 AM: INFO: test_login_good_creds...
+20201229 12:21:40 AM: INFO: test_login_good_creds test passed
+20201229 12:21:44 AM: INFO: ***Test002DDTLogin***
+20201229 12:21:44 AM: INFO: test_login_ddt...
+20201229 12:21:54 AM: INFO: test_login_ddt row:2 test passed
+20201229 12:22:00 AM: INFO: test_login_ddt row:3 test passed
+20201229 12:22:06 AM: INFO: test_login_ddt row:4 test passed
+20201229 12:22:12 AM: INFO: test_login_ddt row:5 test passed
+20201229 12:22:12 AM: INFO: test_login_ddt test passed
+20201229 12:22:14 AM: INFO: Test002DDTLogin tests completed
+20201229 12:22:18 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:22:25 AM: INFO: login successful
+20201229 12:22:27 AM: INFO: testing search_cust_by_email
+20201229 12:22:37 AM: ERROR: ***test_search_cust_by_email test FAILED***
+20201229 12:22:44 AM: INFO: initiating Test005SearchCustName...
+20201229 12:22:52 AM: INFO: login successful
+20201229 12:22:54 AM: INFO: testing search_cust_by_name
+20201229 12:39:37 AM: INFO: ***Test001Login***
+20201229 12:39:37 AM: INFO: testing test_homepg_title...
+20201229 12:39:42 AM: INFO: test_homepg_title test passed
+20201229 12:39:46 AM: INFO: test_login_good_creds...
+20201229 12:39:53 AM: INFO: test_login_good_creds test passed
+20201229 12:39:56 AM: INFO: ***Test002DDTLogin***
+20201229 12:39:56 AM: INFO: test_login_ddt...
+20201229 12:40:07 AM: INFO: test_login_ddt row:2 test passed
+20201229 12:40:13 AM: INFO: test_login_ddt row:3 test passed
+20201229 12:40:19 AM: INFO: test_login_ddt row:4 test passed
+20201229 12:40:25 AM: INFO: test_login_ddt row:5 test passed
+20201229 12:40:25 AM: INFO: test_login_ddt test passed
+20201229 12:40:27 AM: INFO: Test002DDTLogin tests completed
+20201229 12:40:30 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:40:37 AM: INFO: login successful
+20201229 12:40:39 AM: INFO: testing search_cust_by_email
+20201229 12:40:48 AM: ERROR: ***test_search_cust_by_email test FAILED***
+20201229 12:40:54 AM: INFO: initiating Test005SearchCustName...
+20201229 12:41:07 AM: INFO: login successful
+20201229 12:41:09 AM: INFO: testing search_cust_by_name
+20201229 12:41:19 AM: INFO: test_search_cust_by_name test passed
+20201229 12:47:09 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:47:27 AM: INFO: login successful
+20201229 12:47:29 AM: INFO: testing search_cust_by_email
+20201229 12:47:38 AM: ERROR: ***test_search_cust_by_email test FAILED***
+20201229 12:49:40 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:49:47 AM: INFO: login successful
+20201229 12:49:49 AM: INFO: testing search_cust_by_email
+20201229 12:49:58 AM: INFO: test_search_cust_by_email test passed
+20201229 12:53:18 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:53:27 AM: INFO: login successful
+20201229 12:53:29 AM: INFO: testing search_cust_by_email
+20201229 12:53:40 AM: INFO: test_search_cust_by_email test passed
+20201229 12:54:05 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:54:13 AM: INFO: login successful
+20201229 12:54:15 AM: INFO: testing search_cust_by_email
+20201229 12:54:24 AM: INFO: test_search_cust_by_email test passed
+20201229 12:58:50 AM: INFO: initiating Test004SearchCustEmail...
+20201229 12:58:59 AM: INFO: login successful
+20201229 12:59:01 AM: INFO: testing search_cust_by_email
+20201229 12:59:09 AM: INFO: test_search_cust_by_email test passed
+20201230 10:33:02 AM: INFO: initiating Test003AddCust...
+20201230 10:37:09 AM: INFO: initiating Test003AddCust...
+20201230 10:37:17 AM: INFO: login successful
+20201230 10:37:19 AM: INFO: testing add_cust
+20201230 10:37:25 AM: INFO: providing cust info
+20201230 10:37:34 AM: INFO: saving cust info
+20201230 10:37:34 AM: INFO: validating test
+20201230 10:37:34 AM: INFO: add_cust test passed
+20201230 10:37:40 AM: INFO: test_login_good_creds...
+20201230 10:37:49 AM: INFO: test_login_good_creds test passed
