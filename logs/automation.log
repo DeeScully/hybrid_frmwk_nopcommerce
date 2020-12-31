@@ -419,3 +419,9 @@
 20201230 10:37:34 AM: INFO: add_cust test passed
 20201230 10:37:40 AM: INFO: test_login_good_creds...
 20201230 10:37:49 AM: INFO: test_login_good_creds test passed
+20201231 01:40:59 AM: INFO: initiating Test003AddCust...
+20201231 01:41:07 AM: INFO: login successful
+20201231 01:41:09 AM: INFO: testing add_cust
+20201231 01:41:13 AM: INFO: providing cust info
+20201231 01:41:27 AM: INFO: test_login_good_creds...
+20201231 01:41:34 AM: INFO: test_login_good_creds test passed
